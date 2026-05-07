@@ -6,13 +6,17 @@ The code in the 'isd' folder is by Lazzaretto, Margherita, Jonas Peters, and Nik
 
 ### Experiments files
 Section 5 -- Simulation experiments:
+
     5.1 Oracle subspace decomposition: test_oracle_ISD_pinv.py, test_oracle_pres.py
+
     5.2 Estimated subspace decomposition: test_ISD_T0.py
 
 Section B3 -- Varying parameter within the evaluation window
+
     test_oracle_ISD_pinv_varying.py
 
 
 ### Instructions:
 Python version used: 3.8.5
+
 All dependencies are specified through COMMANDFORLOADPACKAGE in the individual files. 

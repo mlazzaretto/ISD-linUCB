@@ -1,0 +1,2 @@
+All code in this folder is by Lazzaretto, Margherita, Jonas Peters, and Niklas Pfister. "Invariant Subspace Decomposition." Journal of Machine Learning Research 26.95 (2025): 1-56.
+The code is publicly available at https://github.com/mlazzaretto/Invariant-Subspace-Decomposition

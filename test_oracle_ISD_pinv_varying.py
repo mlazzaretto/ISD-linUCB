@@ -39,7 +39,7 @@ def test_dimension_oracle_sub():
 
     g = 0.85
 
-    n_iter = 2
+    n_iter = 20
     n_bandits = 5
     cum_reg = np.zeros((n_bandits, P.shape[0], n_iter))
     reg_rates = np.zeros((n_bandits, P.shape[0], n_iter, T))
